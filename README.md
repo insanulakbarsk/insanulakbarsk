@@ -54,8 +54,8 @@ I build scalable web applications, manage infrastructure, and lead tech teams â€
 |---|---|---|
 | **Go Campus** | Next.js, Golang, Tailwind | Campus registration platform with affiliate referral system & Winpay payment integration |
 | **THR Manager** | Next.js, Postgree | Campus payment system integrating multiple banking APIs and payment gateways |
-| **LibinsPos** | Next.js, Postgree | Educator portfolio system integrated with the SISTER government platform |
-| **LibinsPay** | Next.js, Postgree | E-Recommendation platform for qualification equivalency assessment |
+| **Libins Pos** | Next.js, Postgree | Educator portfolio system integrated with the SISTER government platform |
+| **Libins Pay** | Next.js, Postgree | E-Recommendation platform for qualification equivalency assessment |
 | **Libins Laundry** | Laravel, MySQL | Graduation management system for document workflows and approval processes |
 | **PMB Marketplace** | Laravel, MySQL, Bootstrap | Campus marketplace platform with affiliate-based student admissions |
 | **GreatEdu LMS** | CodeIgniter, Golang | LMS platform for schools with studentâ€“teacher communication and online exams |
