@@ -63,13 +63,6 @@ I build scalable web applications, manage infrastructure, and lead tech teams �
 
 ---
 
-## 📊 GitHub Stats
-
-![Insanul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=insanulakbarsk&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanulakbarsk&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/insanulakbarsk)
