@@ -9,7 +9,7 @@ I build scalable web applications, manage infrastructure, and lead tech teams �
 ## 🧑‍💻 About Me
 
 - 💼 **CTO & Fullstack Developer** at [Garuda Cyber](https://garudacyber.co.id)
-- 🏫 **Head of Curriculum Development** at Garuda Cyber Institute
+- 🏫 **Head of Curriculum Development** at [Garuda Cyber](https://garudacyberinstitute.id)
 - 🔧 Experienced in **end-to-end development**: from architecture to deployment
 - 🚀 Passionate about **CI/CD pipelines**, **payment gateway integrations**, and **LMS platforms**
 - 🌐 Website: [libins.com](https://insanulakbarsk.vercel.app)
