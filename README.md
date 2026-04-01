@@ -12,7 +12,7 @@ I build scalable web applications, manage infrastructure, and lead tech teams �
 - 🏫 **Head of Curriculum Development** at Garuda Cyber Institute
 - 🔧 Experienced in **end-to-end development**: from architecture to deployment
 - 🚀 Passionate about **CI/CD pipelines**, **payment gateway integrations**, and **LMS platforms**
-- 🌐 Website: [insanulakbarsk.dev](https://insanulakbarsk.dev)
+- 🌐 Website: [insanulakbarsk.dev](https://insanulakbarsk.vercel.app)
 - 📬 Email: insanulakbar@gmail.com
 
 ---
