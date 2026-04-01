@@ -1,6 +1,6 @@
 # Hi, I'm Insanul Akbar 👋
 
-**Fullstack Developer & CTO** from Riau, Indonesia 🇮🇩
+**Fullstack Developer** from Riau, Indonesia 🇮🇩
 
 I build scalable web applications, manage infrastructure, and lead tech teams — with 5+ years of experience across full-stack development, CI/CD automation, and payment system integrations.
 
