@@ -1,5 +1,4 @@
 # Hi, I'm Insanul Akbar (Libins Tech)👋
-*"Build things that scale, lead teams that grow."*
 
 **Fullstack Developer** from Riau, Indonesia 🇮🇩
 
@@ -76,3 +75,7 @@ I build scalable web applications, manage infrastructure, and lead tech teams �
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://insanulakbarsk.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:insanulakbar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/insanulakbarsk)
+
+---
+
+*"Build things that scale, lead teams that grow."*
