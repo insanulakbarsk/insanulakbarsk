@@ -2,7 +2,7 @@
 
 **Fullstack Developer** from Riau, Indonesia 🇮🇩
 
-I build scalable web applications, manage infrastructure, and lead tech teams — with 5+ years of experience across full-stack development, CI/CD automation, and payment system integrations.
+I build scalable web applications, manage infrastructure, and lead tech teams — with 7+ years of experience across full-stack development, CI/CD automation, and payment system integrations.
 
 ---
 
