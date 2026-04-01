@@ -58,11 +58,12 @@ I build scalable web applications, manage infrastructure, and lead tech teams â€
 | Project | Tech Stack | Description |
 |---|---|---|
 | **Go Campus** | Next.js, Golang, Tailwind | Campus registration platform with affiliate referral system & Winpay payment integration |
-| **THR Manager** | Next.js, Postgree | Campus payment system integrating multiple banking APIs and payment gateways |
+| **THR Manager** | Next.js, MySQL | Personal finance system for managing and tracking THR income and expenses |
 | **Libins Pos** | Next.js, Postgree | Educator portfolio system integrated with the SISTER government platform |
 | **Libins Pay** | Next.js, Postgree | Personal finance tracker for managing income, expenses, and budgeting |
 | **Libins Motion Game** | Next.js | Motion-controlled game using hand and head gestures via camera |
 | **Libins Laundry** | Laravel, MySQL | Laundry management system for tracking orders, customers, and laundry status |
+| Sistem Desa Digital | Laravel, MySQL | Digital village system for managing administrative tasks, public services, and community engagement |
 | **PMB Marketplace** | Laravel, MySQL, Bootstrap | Campus marketplace platform with affiliate-based student admissions |
 | **GreatEdu LMS** | CodeIgniter, Golang | LMS platform for schools with studentâ€“teacher communication and online exams |
 
